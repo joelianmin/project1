@@ -1,0 +1,5 @@
+build/
+*.o
+quiz
+hello
+data/highscore.txt
